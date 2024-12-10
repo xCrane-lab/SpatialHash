@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ala11\\source\\repos\\Spatial Hash\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1074E9E1-B311-4731-8B3E-AC9B66CD7D9D}|Spatial Hash.vcxproj|C:\\Users\\ala11\\source\\repos\\Spatial Hash\\Spatial Hash.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1074E9E1-B311-4731-8B3E-AC9B66CD7D9D}|Spatial Hash.vcxproj|solutionrelative:Spatial Hash.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Spatial Hash.cpp",
+              "DocumentMoniker": "C:\\Users\\ala11\\source\\repos\\Spatial Hash\\Spatial Hash.cpp",
+              "RelativeDocumentMoniker": "Spatial Hash.cpp",
+              "ToolTip": "C:\\Users\\ala11\\source\\repos\\Spatial Hash\\Spatial Hash.cpp",
+              "RelativeToolTip": "Spatial Hash.cpp",
+              "ViewState": "AgIAANMAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-10T18:48:34.728Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
